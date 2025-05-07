@@ -1,0 +1,24 @@
+{
+  "name": "battle_bot_classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flux-Inc88/battle-bot-classes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flux-Inc88/battle-bot-classes/issues"
+  },
+  "homepage": "https://github.com/Flux-Inc88/battle-bot-classes#readme",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "discord.js": "^14.19.3"
+  }
+}
